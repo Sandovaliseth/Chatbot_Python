@@ -1,7 +1,7 @@
 {
   "intents": [
     {
-      "tag": "prompt _1",
+      "tag": "prompt_1",
       "patterns": ["¿Cuál es el último avance destacado en el campo de la IA?", "Háblame de una innovación reciente en IA.", "¿Qué novedades hay en IA?"],
       "responses": ["El uso de redes neuronales generativas (GANs) para crear arte y música es una de las innovaciones recientes más emocionantes en IA."]
     },
@@ -60,7 +60,8 @@
       "patterns": ["¿Cuál es el papel de la IA en la investigación científica?", "Háblame sobre cómo la IA acelera el progreso científico.", "¿Qué descubrimientos notables se han logrado con la ayuda de la IA?"],
       "responses": ["La IA agiliza la investigación científica al analizar datos complejos, identificar patrones y ayudar en la simulación de procesos, lo que ha llevado a avances en campos como la medicina y la astronomía."]
     },
-    {"tag": "prompt_13",
+    {
+      "tag": "prompt_13",
       "patterns": ["¿Cómo se podría aplicar la IA en la conservación del medio ambiente?", "Háblame sobre el uso de la IA en la protección del medio ambiente.", "¿Cuál es el impacto de la IA en la sostenibilidad?"],
       "responses": ["La IA se utiliza en la conservación del medio ambiente para monitorear la biodiversidad, predecir desastres naturales y optimizar el uso de recursos, contribuyendo así a la sostenibilidad."]
     },
@@ -126,4 +127,3 @@
     }
   ]
 }
-  
