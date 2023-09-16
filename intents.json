@@ -1,0 +1,129 @@
+{
+  "intents": [
+    {
+      "tag": "prompt _1",
+      "patterns": ["¿Cuál es el último avance destacado en el campo de la IA?", "Háblame de una innovación reciente en IA.", "¿Qué novedades hay en IA?"],
+      "responses": ["El uso de redes neuronales generativas (GANs) para crear arte y música es una de las innovaciones recientes más emocionantes en IA."]
+    },
+    {
+      "tag": "prompt_2",
+      "patterns": ["¿Cómo se compara el aprendizaje profundo con otras técnicas de IA?", "Explícame las diferencias entre aprendizaje profundo y aprendizaje supervisado.", "¿Cuál es la ventaja del aprendizaje profundo?"],
+      "responses": ["El aprendizaje profundo es una rama del aprendizaje automático que utiliza redes neuronales profundas para modelar datos complejos y es conocido por su capacidad para aprender representaciones de alto nivel de los datos."]
+    },
+    {
+      "tag": "prompt_3",
+      "patterns": ["¿Cuál es el desafío más grande en la creación de IA autónoma?", "Háblame sobre los obstáculos para desarrollar IA autónoma.", "¿Cómo se logra la autonomía en IA?"],
+      "responses": ["Uno de los desafíos más grandes es la toma de decisiones autónomas en situaciones impredecibles, como la conducción autónoma, donde la seguridad es fundamental."]
+    },
+    {
+      "tag": "prompt_4",
+      "patterns": ["¿Qué papel juega la ética en el desarrollo de IA?", "Explícame la importancia de la ética en IA.", "¿Cómo se abordan los dilemas éticos en la IA?"],
+      "responses": ["La ética desempeña un papel fundamental en la IA, ya que se deben considerar cuestiones como la privacidad, la discriminación y la transparencia en el diseño y uso de sistemas de IA."]
+    },
+    {
+      "tag": "prompt_5",
+      "patterns": ["¿Cuál es la diferencia entre IA fuerte y IA débil?", "Háblame sobre la IA que puede razonar y tomar decisiones.", "¿Qué es la IA general?"],
+      "responses": ["La IA fuerte se refiere a sistemas que poseen la capacidad de razonar y tomar decisiones similares a los humanos, mientras que la IA débil está diseñada para tareas específicas y no tiene esa capacidad general."]
+    },
+    {
+      "tag": "prompt_6",
+      "patterns": ["¿Cómo afecta la IA a la atención médica?", "Háblame sobre las aplicaciones de IA en la medicina.", "¿Cómo contribuye la IA a los diagnósticos médicos?"],
+      "responses": ["La IA está revolucionando la atención médica al ayudar en la detección temprana de enfermedades, interpretar imágenes médicas y personalizar tratamientos para pacientes."]
+    },
+    {
+      "tag": "prompt_7",
+      "patterns": ["¿Cuál es el potencial de la IA en la toma de decisiones empresariales?", "Explícame cómo la IA puede mejorar la toma de decisiones en empresas.", "¿Qué ventajas ofrece la IA en la gestión empresarial?"],
+      "responses": ["La IA puede analizar grandes conjuntos de datos para proporcionar información valiosa que ayuda a las empresas a tomar decisiones estratégicas más informadas y eficientes."]
+    },
+    {
+      "tag": "prompt_8",
+      "patterns": ["¿Cuáles son los desafíos éticos en el uso de IA en la seguridad?", "Háblame sobre la ética de la IA en la vigilancia.", "¿Cómo se equilibra la seguridad con la privacidad en IA?"],
+      "responses": ["El uso de IA en la seguridad plantea preguntas éticas sobre la vigilancia masiva y la privacidad de los ciudadanos, lo que requiere un equilibrio delicado para garantizar la seguridad sin violar derechos."]
+    },
+    {
+      "tag": "prompt_9",
+      "patterns": ["¿Qué avances se esperan en la IA en los próximos cinco años?", "Háblame sobre las tendencias futuras en IA.", "¿Cuál será el impacto de la IA en la sociedad a corto plazo?"],
+      "responses": ["Se espera que la IA siga avanzando en áreas como el procesamiento del lenguaje natural, la visión por computadora y la IA conversacional, lo que transformará aún más la sociedad y la tecnología."]
+    },
+    {
+      "tag": "prompt_10",
+      "patterns": ["¿Cómo se están utilizando las IA conversacionales en el servicio al cliente?", "Háblame sobre la IA en la atención al cliente.", "¿Cuál es la ventaja de usar chatbots y asistentes virtuales en empresas?"],
+      "responses": ["Las IA conversacionales, como chatbots, mejoran la eficiencia del servicio al cliente al brindar respuestas rápidas a preguntas frecuentes y gestionar consultas, liberando tiempo para tareas más complejas."]
+    },
+    {
+      "tag": "prompt_11",
+      "patterns": ["¿Cuál es la relación entre IA y la evolución de la robótica?", "Explícame cómo la IA está cambiando la robótica.", "¿Qué robots inteligentes se están desarrollando con IA?"],
+      "responses": ["La IA está impulsando avances en la robótica, permitiendo la creación de robots más autónomos y capaces de realizar tareas diversas, desde la atención médica hasta la exploración espacial."]
+    },
+    {
+      "tag": "prompt_12",
+      "patterns": ["¿Cuál es el papel de la IA en la investigación científica?", "Háblame sobre cómo la IA acelera el progreso científico.", "¿Qué descubrimientos notables se han logrado con la ayuda de la IA?"],
+      "responses": ["La IA agiliza la investigación científica al analizar datos complejos, identificar patrones y ayudar en la simulación de procesos, lo que ha llevado a avances en campos como la medicina y la astronomía."]
+    },
+    {"tag": "prompt_13",
+      "patterns": ["¿Cómo se podría aplicar la IA en la conservación del medio ambiente?", "Háblame sobre el uso de la IA en la protección del medio ambiente.", "¿Cuál es el impacto de la IA en la sostenibilidad?"],
+      "responses": ["La IA se utiliza en la conservación del medio ambiente para monitorear la biodiversidad, predecir desastres naturales y optimizar el uso de recursos, contribuyendo así a la sostenibilidad."]
+    },
+    {
+      "tag": "prompt_14",
+      "patterns": ["¿Cuál es el desafío más emocionante en la creación de IA autónoma?", "Háblame sobre la emoción de desarrollar IA autónoma.", "¿Cuál es el futuro de la autonomía en IA?"],
+      "responses": ["Uno de los desafíos más emocionantes es lograr que las IA sean capaces de aprender y adaptarse de manera continua, lo que podría llevar a avances significativos en la autonomía."]
+    },
+    {
+      "tag": "prompt_15",
+      "patterns": ["¿Cómo afecta la IA a la industria del entretenimiento?", "Háblame sobre las aplicaciones de IA en la industria del cine y los videojuegos.", "¿Cómo se está utilizando la IA para mejorar la experiencia del usuario en el entretenimiento?"],
+      "responses": ["La IA está transformando la industria del entretenimiento al personalizar recomendaciones, crear efectos especiales avanzados y diseñar personajes virtuales convincentes en películas y videojuegos."]
+    },
+    {
+      "tag": "prompt_16",
+      "patterns": ["¿Cuál es el futuro de la IA en la educación?", "Háblame sobre cómo la IA está cambiando la forma en que aprendemos.", "¿Cuál es el potencial de la IA en la enseñanza?"],
+      "responses": ["La IA tiene el potencial de personalizar la educación, ofreciendo experiencias de aprendizaje adaptadas a las necesidades individuales de los estudiantes y mejorando la eficiencia del proceso de enseñanza-aprendizaje."]
+    },
+    {
+      "tag": "prompt_17",
+      "patterns": ["¿Cómo se está utilizando la IA en la exploración espacial?", "Háblame sobre las aplicaciones de IA en la NASA y la exploración espacial.", "¿Qué logros notables ha alcanzado la IA en la astronáutica?"],
+      "responses": ["La IA se utiliza en la exploración espacial para automatizar tareas, analizar datos de telescopios y rovers, y tomar decisiones cruciales en misiones espaciales, lo que ha llevado a descubrimientos asombrosos."]
+    },
+    {
+      "tag": "prompt_18",
+      "patterns": ["¿Cuál es el impacto de la IA en la economía global?", "Háblame sobre cómo la IA está transformando la economía mundial.", "¿Qué oportunidades y desafíos plantea la IA en el ámbito económico?"],
+      "responses": ["La IA está impulsando la economía global al automatizar procesos, crear empleos en tecnología y promover la innovación, pero también plantea desafíos en términos de desigualdad y regulación."]
+    },
+    {
+      "tag": "prompt_19",
+      "patterns": ["¿Cuál es el papel de la IA en la ciberseguridad?", "Háblame sobre cómo la IA protege contra amenazas cibernéticas.", "¿Cómo se utiliza la IA para detectar y prevenir ataques informáticos?"],
+      "responses": ["La IA desempeña un papel fundamental en la ciberseguridad al identificar patrones de ataques y vulnerabilidades, lo que ayuda a proteger sistemas y datos críticos contra amenazas cibernéticas."]
+    },
+    {
+      "tag": "prompt_20",
+      "patterns": ["¿Cuál es el futuro de la IA en la atención médica?", "Háblame sobre cómo la IA transformará la medicina en los próximos años.", "¿Cuál es el potencial de la IA en el diagnóstico y tratamiento de enfermedades?"],
+      "responses": ["La IA continuará revolucionando la atención médica al acelerar el diagnóstico, identificar tratamientos personalizados y mejorar la gestión de registros de salud, lo que beneficiará a pacientes y profesionales de la salud."]
+    },
+    {
+      "tag": "prompt_21",
+      "patterns": ["¿Cuál es el impacto de la IA en la agricultura?", "Háblame sobre cómo la IA está modernizando la agricultura.", "¿Cómo se utilizan drones y sensores con IA en la agricultura de precisión?"],
+      "responses": ["La IA está modernizando la agricultura al permitir la monitorización de cultivos, la optimización de la gestión de tierras y el uso eficiente de recursos, lo que aumenta la productividad y la sostenibilidad."]
+    },
+    {
+      "tag": "prompt_22",
+      "patterns": ["¿Cuál es el potencial de la IA en la traducción de idiomas?", "Háblame sobre las aplicaciones de IA en la traducción.", "¿Cómo la IA está superando las barreras del lenguaje?"],
+      "responses": ["La IA tiene un gran potencial en la traducción de idiomas al proporcionar traducciones rápidas y precisas, lo que facilita la comunicación global y la comprensión entre personas que hablan diferentes idiomas."]
+    },
+    {
+      "tag": "prompt_23",
+      "patterns": ["¿Cuál es el impacto de la IA en la toma de decisiones éticas?", "Háblame sobre cómo la IA puede abordar dilemas éticos.", "¿Cómo se incorporan los principios éticos en los sistemas de IA?"],
+      "responses": ["La IA puede ayudar en la toma de decisiones éticas al analizar datos y proporcionar información relevante, pero también plantea preguntas sobre la responsabilidad y la transparencia en sus acciones."]
+    },
+    {
+      "tag": "prompt_24",
+      "patterns": ["¿Cuál es el papel de la IA en la logística y el transporte?", "Háblame sobre las aplicaciones de IA en la gestión de la cadena de suministro y la movilidad.", "¿Cómo la IA está mejorando la eficiencia en el transporte?"],
+      "responses": ["La IA desempeña un papel esencial en la logística y el transporte al optimizar rutas, programar entregas y gestionar flotas de vehículos de manera eficiente, lo que reduce costos y tiempos de entrega."]
+    },
+    {
+      "tag": "prompt_25",
+      "patterns": ["¿Cuál es el futuro de la IA en la música?", "Háblame sobre cómo la IA está influyendo en la composición musical.", "¿Qué desafíos enfrenta la IA en la creación de música original?"],
+      "responses": ["La IA está transformando la música al componer piezas originales, aunque aún enfrenta desafíos en la creación de música emocional y la comprensión de la creatividad humana."]
+    }
+  ]
+}
+  
